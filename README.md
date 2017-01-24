@@ -26,12 +26,9 @@ Stuffs Used :
 Copy all config
 
 ```
-cp config_example.js config.js
+cp config_example.js config.js && cp server/config_example.json server/config.json
 ```
 
-```
-cp server/config_example.json server/config.json
-```
 
 Replace the values with your custom values
 
